@@ -1,0 +1,31 @@
+/Users/jacobwilkinson-hall/Library/CloudStorage/OneDrive-OtagoPolytechnic/Dealornodeal/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/jacobwilkinson-hall/Library/CloudStorage/OneDrive-OtagoPolytechnic/Dealornodeal/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobwilkinson-hall/Library/CloudStorage/OneDrive-OtagoPolytechnic/Dealornodeal/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/Users/jacobwilkinson-hall/Library/CloudStorage/OneDrive-OtagoPolytechnic/Dealornodeal/ConsoleApp1/bin/Debug/net7.0/Millionaire.txt
+/Users/jacobwilkinson-hall/Library/CloudStorage/OneDrive-OtagoPolytechnic/Dealornodeal/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.deps.json
+/Users/jacobwilkinson-hall/Library/CloudStorage/OneDrive-OtagoPolytechnic/Dealornodeal/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json
+/Users/jacobwilkinson-hall/Library/CloudStorage/OneDrive-OtagoPolytechnic/Dealornodeal/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/Users/jacobwilkinson-hall/Library/CloudStorage/OneDrive-OtagoPolytechnic/Dealornodeal/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/Users/jacobwilkinson-hall/Library/CloudStorage/OneDrive-OtagoPolytechnic/Dealornodeal/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/jacobwilkinson-hall/Library/CloudStorage/OneDrive-OtagoPolytechnic/Dealornodeal/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/Users/jacobwilkinson-hall/Library/CloudStorage/OneDrive-OtagoPolytechnic/Dealornodeal/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/jacobwilkinson-hall/Library/CloudStorage/OneDrive-OtagoPolytechnic/Dealornodeal/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/Users/jacobwilkinson-hall/Library/CloudStorage/OneDrive-OtagoPolytechnic/Dealornodeal/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/Users/jacobwilkinson-hall/Library/CloudStorage/OneDrive-OtagoPolytechnic/Dealornodeal/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
+/Users/jacobwilkinson-hall/Library/CloudStorage/OneDrive-OtagoPolytechnic/Dealornodeal/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache
+/Users/jacobwilkinson-hall/Library/CloudStorage/OneDrive-OtagoPolytechnic/Dealornodeal/ConsoleApp1/obj/Debug/net7.0/ref/ConsoleApp1.dll
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\bin\Debug\net7.0\Millionaire.txt
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll

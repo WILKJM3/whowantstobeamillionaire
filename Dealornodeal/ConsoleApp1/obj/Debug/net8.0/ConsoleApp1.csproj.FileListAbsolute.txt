@@ -1,0 +1,30 @@
+H:\Dealornodeal\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+H:\Dealornodeal\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+H:\Dealornodeal\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+H:\Dealornodeal\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+H:\Dealornodeal\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+H:\Dealornodeal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Dealornodeal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+H:\Dealornodeal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+H:\Dealornodeal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\Dealornodeal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+H:\Dealornodeal\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+H:\Dealornodeal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+H:\Dealornodeal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+H:\Dealornodeal\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+H:\Dealornodeal\ConsoleApp1\bin\Debug\net8.0\Millionaire.txt
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\bin\Debug\net8.0\Millionaire.txt
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\wilkjm3\OneDrive - Otago Polytechnic\Dealornodeal\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
